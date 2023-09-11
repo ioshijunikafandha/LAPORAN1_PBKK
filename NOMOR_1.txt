@@ -1,0 +1,15 @@
+PHP adalah bahasa pemrograman yang mendukung pemrograman berorientasi objek (OOP) secara luas. OOP adalah paradigma pemrograman yang berfokus pada pemodelan dunia nyata dalam bentuk objek dan kelas. 
+PHP memiliki dukungan penuh untuk OOP, dan ini tercermin dalam banyak fitur dan konsep dalam bahasa ini. 
+PHP pada OOP terdiri dari class dan objek.
+Class:
+Di PHP, Anda dapat membuat kelas menggunakan kata kunci class. Kelas adalah blueprint (cetakan) untuk menciptakan objek. 
+Dalam kelas, Anda dapat mendefinisikan properti (variabel) dan metode (fungsi) yang mendefinisikan karakteristik dan perilaku dari objek yang akan dibuat dari kelas tersebut.
+Objek:
+Objek dalam pemrograman berorientasi objek (OOP) di PHP adalah instance konkret dari sebuah kelas. 
+Objek menggambarkan entitas yang mewakili data dan perilaku yang didefinisikan dalam kelas. Setelah Anda mendefinisikan sebuah kelas, Anda dapat membuat banyak objek berdasarkan kelas tersebut. \
+
+Langkah mengoperasikan objek di dalam PHP:
+1. Membuat Kelas: Pertama, Anda perlu mendefinisikan sebuah kelas dengan menggunakan kata kunci class. Kelas ini akan berisi properti (variabel) dan metode (fungsi) yang mendefinisikan objek
+2. Membuat Objek: Setelah kelas dibuat, Anda dapat membuat objek dari kelas tersebut dengan menggunakan kata kunci new. 
+3. Mengakses Properti dan Metode: Setelah objek dibuat, Anda dapat mengakses properti dan metode dari objek tersebut menggunakan operator panah (->)
+4. Membuat Objek Lain: Anda dapat membuat objek lain dari kelas yang sama atau berbeda sesuai kebutuhan Anda
